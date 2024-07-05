@@ -13,6 +13,10 @@
     <div id="cont"> </div>
 </body>
 <script>
+   let name=document.getElementById("name")
+   let email=document.getElementById("email")
+   let state=false
+
     async function postdata(){
         let obj={
             name:document.getElementById("name").value,
@@ -45,6 +49,7 @@
 
 
  async function displaydata (data){
+    cont.innerHTML=""
     data.map((ele)=>{
         let div=document.createElement("div")
         let name=document.createElement("h1")
@@ -69,7 +74,7 @@
     });
 
  }
- displaydata()
+//  displaydata()
 async function deletdata(id){
  try{
     let res=await axios.delete(`http://localhost:3030/data/${id}`)
