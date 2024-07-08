@@ -1,5 +1,196 @@
 {
-  "data": [
+  "men": 
+    [
+      {
+        "id": 1,
+        "name": "Slim Fit Jeans",
+        "image": "https://example.com/images/slim_fit_jeans.jpg",
+        "price": 49.99
+      },
+      {
+        "id": 2,
+        "name": "Cotton Polo Shirt",
+        "image": "https://example.com/images/cotton_polo_shirt.jpg",
+        "price": 29.99
+      },
+      {
+        "id": 3,
+        "name": "Leather Belt",
+        "image": "https://example.com/images/leather_belt.jpg",
+        "price": 39.99
+      },
+      {
+        "id": 4,
+        "name": "Formal Dress Shirt",
+        "image": "https://example.com/images/formal_dress_shirt.jpg",
+        "price": 44.99
+      },
+      {
+        "id": 5,
+        "name": "Sports Jacket",
+        "image": "https://example.com/images/sports_jacket.jpg",
+        "price": 99.99
+      },
+      {
+        "id": 6,
+        "name": "Cargo Shorts",
+        "image": "https://example.com/images/cargo_shorts.jpg",
+        "price": 34.99
+      },
+      {
+        "id": 7,
+        "name": "Wool Sweater",
+        "image": "https://example.com/images/wool_sweater.jpg",
+        "price": 59.99
+      },
+      {
+        "id": 8,
+        "name": "Dress Shoes",
+        "image": "https://example.com/images/dress_shoes.jpg",
+        "price": 89.99
+      },
+      {
+        "id": 9,
+        "name": "Puffer Vest",
+        "image": "https://example.com/images/puffer_vest.jpg",
+        "price": 79.99
+      },
+      {
+        "id": 10,
+        "name": "Track Pants",
+        "image": "https://example.com/images/track_pants.jpg",
+        "price": 24.99
+      }
+    ],
+    "women": [
+      
+        
+          {
+            "id": 1,
+            "name": "Floral Maxi Dress",
+            "image": "https://example.com/images/floral_maxi_dress.jpg",
+            "price": 79.99
+          },
+          {
+            "id": 2,
+            "name": "High-Waisted Skinny Jeans",
+            "image": "https://example.com/images/high_waisted_jeans.jpg",
+            "price": 59.99
+          },
+          {
+            "id": 3,
+            "name": "Lace Blouse",
+            "image": "https://example.com/images/lace_blouse.jpg",
+            "price": 49.99
+          },
+          {
+            "id": 4,
+            "name": "Leather Handbag",
+            "image": "https://example.com/images/leather_handbag.jpg",
+            "price": 89.99
+          },
+          {
+            "id": 5,
+            "name": "Ankle Boots",
+            "image": "https://example.com/images/ankle_boots.jpg",
+            "price": 69.99
+          },
+          {
+            "id": 6,
+            "name": "Wrap Skirt",
+            "image": "https://example.com/images/wrap_skirt.jpg",
+            "price": 39.99
+          },
+          {
+            "id": 7,
+            "name": "Knit Sweater",
+            "image": "https://example.com/images/knit_sweater.jpg",
+            "price": 54.99
+          },
+          {
+            "id": 8,
+            "name": "Silk Scarf",
+            "image": "https://example.com/images/silk_scarf.jpg",
+            "price": 29.99
+          },
+          {
+            "id": 9,
+            "name": "Denim Jacket",
+            "image": "https://example.com/images/denim_jacket.jpg",
+            "price": 79.99
+          },
+          {
+            "id": 10,
+            "name": "Trench Coat",
+            "image": "https://example.com/images/trench_coat.jpg",
+            "price": 119.99
+          }
+        ],
+        "kids":[
+          {
+            "id": 1,
+            "name": "Dinosaur Print T-Shirt",
+            "image": "https://example.com/images/dinosaur_tshirt.jpg",
+            "price": 19.99
+          },
+          {
+            "id": 2,
+            "name": "Rainbow Striped Leggings",
+            "image": "https://example.com/images/rainbow_leggings.jpg",
+            "price": 14.99
+          },
+          {
+            "id": 3,
+            "name": "Unicorn Hoodie",
+            "image": "https://example.com/images/unicorn_hoodie.jpg",
+            "price": 24.99
+          },
+          {
+            "id": 4,
+            "name": "Denim Overall Dress",
+            "image": "https://example.com/images/denim_overall_dress.jpg",
+            "price": 29.99
+          },
+          {
+            "id": 5,
+            "name": "Sneakers with Light-Up Soles",
+            "image": "https://example.com/images/lightup_sneakers.jpg",
+            "price": 39.99
+          },
+          {
+            "id": 6,
+            "name": "Striped Cotton Shorts",
+            "image": "https://example.com/images/striped_shorts.jpg",
+            "price": 12.99
+          },
+          {
+            "id": 7,
+            "name": "Floral Print Dress",
+            "image": "https://example.com/images/floral_dress.jpg",
+            "price": 22.99
+          },
+          {
+            "id": 8,
+            "name": "Baseball Cap",
+            "image": "https://example.com/images/baseball_cap.jpg",
+            "price": 9.99
+          },
+          {
+            "id": 9,
+            "name": "Printed Pyjama Set",
+            "image": "https://example.com/images/pyjama_set.jpg",
+            "price": 17.99
+          },
+          {
+            "id": 10,
+            "name": "Raincoat with Animal Prints",
+            "image": "https://example.com/images/raincoat.jpg",
+            "price": 34.99
+          }
+        ]
+        
+
+        
+        
+      }
     
-  ]
-}
